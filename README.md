@@ -34,12 +34,11 @@ Pipeline mencakup proses **ETL (Extract, Transform, Load)**, penyimpanan dalam d
 ---
 
 ## 👥 Team Members
-| Nama | NIM |
-|------|------|
-| Yudha Tri Atmaja | 2409116095 |
-| Mochammad Rezky Ramadhan | 2409116029 |
-| Muhammad Ilyasa' Izzuddin | 2409116033 |
-| Sayid Rafi Athaya | 2409116036 |
+| Nama | NIM | Role |
+|---|---|---|
+| Sayid Rafi A'thaya | 2409116036 | Project Manager 💡 |
+| Muhammad Ilyasa' 'Izzuddin | 2409116033 | Frontend / UI 🎨 |
+| Mochammad Rezky Ramadhan | 2409116029 | Backend / Database ⚙️ |
 
 ---
 
