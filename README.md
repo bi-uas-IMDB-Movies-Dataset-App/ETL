@@ -401,7 +401,7 @@ Dokumen laporan lengkap mencakup: latar belakang, analisis kebutuhan, desain Sta
 
 📂 **File:** `Laporan/Laporan_DataWarehouse_Kelompok_5_Business_Intelligence_Top 1000_IMDB.docx`
 
-***(insert link Google Drive laporan di sini)***
+ntar diisi
 
 ---
 
@@ -409,7 +409,7 @@ Dokumen laporan lengkap mencakup: latar belakang, analisis kebutuhan, desain Sta
 
 Slide deck untuk presentasi proyek — mencakup latar belakang, pipeline BI, arsitektur Star Schema, screenshot visualisasi, dan insight analitik.
 
-***(insert link PPT/Canva di sini)***
+ntar diisi
 
 ---
 
