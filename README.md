@@ -15,8 +15,8 @@
 | 🗃️ **Dataset Kotor (Kaggle)** | [IMDB Top 1000 Movies & TV Shows](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows) |
 | 💻 **Repository GitHub** | [bi-uts-IMDB-Movies-Dataset](https://github.com/mocharezky04/bi-uts-IMDB-Movies-Dataset.git) |
 | 📓 **Notebook ETL (Google Colab)** | [Lihat Notebook ETL](ETL/IMDB_DataWarehouse_Colab.ipynb) |
-| 📄 **Laporan Proyek (PDF)** | *(insert link Google Drive laporan di sini)* |
-| 🖼️ **Poster Proyek** | *(insert link Google Drive poster di sini)* |
+| 📄 **Laporan Proyek (PDF)** | ntar diisi |
+| 🖼️ **Poster Proyek** | ntar diisi |
 
 ---
 
