@@ -16,7 +16,7 @@
 | 💻 **Repository GitHub** | [bi-uts-IMDB-Movies-Dataset](https://github.com/mocharezky04/bi-uts-IMDB-Movies-Dataset.git) |
 | 📓 **Notebook ETL (Google Colab)** | [Lihat Notebook ETL](ETL/IMDB_DataWarehouse_Colab.ipynb) |
 | 📄 **Laporan Proyek (PDF)** | ntar diisi |
-| 🖼️ **Poster Proyek** | ntar diisi |
+| 🖼️ **Poster Proyek** | [Poster Cinemascope](https://drive.google.com/file/d/1MXwWzetHHXq4dvNC6g_n4X1qS7LUFF7O/view?usp=sharing) |
 
 ---
 
